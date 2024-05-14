@@ -21,7 +21,7 @@ The laboratory sessions emphasize not only the execution of standard SQL operati
 As students progress through the laboratory sessions, they are challenged to tackle increasingly intricate SQL queries. By systematically breaking down and analyzing complex problems, they hone their skills in crafting precise and efficient SQL statements.
 
 ### Getting Started
-To begin exploring the queries covered in Day 1, navigate to the relevant files in this repository. Each query is meticulously documented to provide clear insights into its purpose and functionality.
+To begin exploring the queries covered each day, navigate to the relevant files in this repository. Each query is meticulously documented to provide clear insights into its purpose and functionality.
 
 ### Feedback and Contributions
 Feedback and contributions are welcome! If you have suggestions for improving existing queries or ideas for new ones, feel free to submit a pull request or reach out to the laboratory instructors.
