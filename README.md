@@ -1,4 +1,4 @@
-## Database Management System Laboratory - Day 1 Queries
+## Database Management System Laboratory - SQL Queries On Oracle SQL Server
 
 Welcome to the Database Management System (DBMS) Laboratory at AOT. This README.md provides an overview of the queries conducted during Day 1 to last day of lab, encompassing fundamental CRUD operations and advanced SQL concepts.
 
