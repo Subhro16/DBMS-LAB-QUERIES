@@ -98,10 +98,10 @@ ii)SELECT DAY,TO_CHAR(DAY,'DDTHSP Month year') FROM RESERVE;
 //SELECT DAY,TO_CHAR(DAY,'DDTHSP MonthSP year') FROM RESERVE;
 
 //find day of weekdays of reservation date
-70)SELECT TO_CHAR(DAY,'D Month year') FROM RESERVE;
+70)select to_char (day, 'DAY') as day_of_week from reserve;
 
 //find no. of day of weekdays of reservation date
-71)SELECT TO_CHAR(DAY,'DD Month year') FROM RESERVE;
+71)select to_char(day, 'D') from reserve;
 
 //find the number of days passed upto reservation date of that year.
 SELECT DAY,TO_CHAR(DAY,'D') FROM RESERVE;
